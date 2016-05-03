@@ -1,11 +1,9 @@
-# # LearnSoftware
-portal de ensino educativo
+## LearnSoftware
+Portal educacional
 
-TODO: Write a project description
-## Installation
-TODO: Describe the installation process
-## Usage
+## Uso
 TODO: Write usage instructions
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
