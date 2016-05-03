@@ -2,10 +2,10 @@
 Portal educacional
 
 ## Casos de uso
-1 - Cadastrar aluno
-2 - Cadastrar professor
-3 - Cadastrar matéria
-4 - Montar grade
+1. - Cadastrar aluno
+2. - Cadastrar professor
+3. - Cadastrar matéria
+4. - Montar grade
 
 ## Contributing
 1. Fork it!
